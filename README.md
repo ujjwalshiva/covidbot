@@ -1,6 +1,6 @@
 # COVID Telegram Bot
 
-This is a bot built to check live status of COVID Infected cases in Telangana and all across India. This bot fetches data from Telangana Health Ministry and COVID 19 API and sends results immediately to the user. There are several useful commands that this bot serves to:
+This is a Telegram bot built to check live status of COVID Infected cases in Telangana and all across India. This bot fetches data from Telangana Health Ministry and COVID 19 API and sends results immediately to the user. There are several useful commands that this bot serves to:
 
 `/latest` <br>
 `/india` <br>
